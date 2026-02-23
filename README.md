@@ -1,5 +1,5 @@
 # The RIFF220 DIY 3D printer
-![Frame](nn.jpg)
+![Frame](riff220.jpg)
 
 
 
@@ -17,7 +17,7 @@
 - 8mm rods and bearings on Z 
 - Corexy
 - Klipper firmware 
-- Triple z steppermotors
+- Triple z steppermotors with z-tilt
 - Sensorless homing on X and Y 
 - Dragonburner with Sherpa micro and CPAP
 - 1 x 240W 24V power supply
