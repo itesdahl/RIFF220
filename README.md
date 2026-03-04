@@ -4,7 +4,7 @@
 
 
 > [!NOTE]
-> This is still a prototype. Stuff will change during development/testing.
+> This is still a prototype. Stuff will change during testing.
 
 ## Some key information the build:
 
@@ -27,6 +27,9 @@
 
 - 4x2020 500mm for Z 
 - 8x2020 350mm for X and Y
+
+- Optional: 1x2020 350mm for z to support the rear 8mm rods
+
 
 ### Extrusions for the bed assy 220x220
 - 1x2020 240mm center 
