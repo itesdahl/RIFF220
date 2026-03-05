@@ -26,7 +26,9 @@
 ### Cutting extrusions
 
 - 4x2020 500mm for Z 
+- 1x2020 62mm for rear Z support
 - 8x2020 350mm for X and Y
+
 
 
 ### Extrusions for the bed assy 220x220
