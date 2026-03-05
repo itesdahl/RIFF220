@@ -27,7 +27,6 @@
 ### Cutting extrusions
 
 - 4x2020 500mm for Z 
-- 1x2020 62mm for rear Z support (shown in the rendering and CAD but not in the photo)
 - 8x2020 350mm for X and Y
 
 
