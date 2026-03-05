@@ -8,7 +8,7 @@
 
 ## Some key information the build:
 
-- Base plate 220 x 220 (Max printable 215x230, X restricted toolhead width)
+- Base plate 220 x 220 (Max printable 215x230, X restricted by toolhead width)
 - 2020 extrusions 
 - 1x SKR Pico and 1x SKR 1.4 controller boards (not critical, use whatever you have that have enough drivers and can run Klipper)
 - Radxa Rock 3C SBC (or a Pi. SBC with 3-4 USB ports recommended)
