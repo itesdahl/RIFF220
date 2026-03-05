@@ -4,7 +4,7 @@
 
 
 > [!NOTE]
-> This design is still in development. Stuff might still change.
+> This is work in progress. Details might change.
 
 ## Some key information the design and build:
 
