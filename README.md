@@ -6,7 +6,7 @@
 > [!NOTE]
 > This is still a prototype. Stuff will change during testing.
 
-## Some key information the build:
+## Some key information the design and build:
 
 - Max printable area 215x230x220, X restricted by toolhead width)
 - 2020 extrusions 
