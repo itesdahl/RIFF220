@@ -28,8 +28,6 @@
 - 4x2020 500mm for Z 
 - 8x2020 350mm for X and Y
 
-- Recommended: 1x2020 350mm to support the two rear 8mm rods (not shown in the rendering or photo)
-
 
 ### Extrusions for the bed assy 220x220
 - 1x2020 240mm center 
