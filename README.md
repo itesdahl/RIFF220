@@ -4,7 +4,7 @@
 
 
 > [!NOTE]
-> This is still a prototype. Stuff will change during testing.
+> This design is still in development. Stuff might still change.
 
 ## Some key information the design and build:
 
