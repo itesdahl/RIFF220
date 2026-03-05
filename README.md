@@ -19,7 +19,8 @@
 - Klipper firmware 
 - Triple z steppermotors (z-tilt functionality)
 - Sensorless homing on X and Y 
-- Dragonburner with Sherpa micro and CPAP
+- Dragonburner with Sherpa micro
+- Low budget CPAP solution with 2 x standard 5015 fans
 - 1 x 240W 24V power supply
 
 
