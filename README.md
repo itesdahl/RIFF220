@@ -8,7 +8,7 @@
 
 
 >[!TIP]
->Use the Voron Teident assembly guide to build the bed arms and motor mounts. Please note that the orientation of some bolts are changed. https://github.com/VoronDesign/Voron-Trident/blob/main/Manual/Assembly_Manual_Trident.pdf Refer to the BFI idlers to print the original STLs for carrier and front. https://github.com/clee/VoronBFI
+>Use the Voron Trident assembly guide to build the bed arms and the A/B motor mounts. Please note that the orientation of some bolts are changed. https://github.com/VoronDesign/Voron-Trident/blob/main/Manual/Assembly_Manual_Trident.pdf Refer to the BFI idlers to print the original STLs for carrier and front. https://github.com/clee/VoronBFI
 >
 
 ## Some key information the design and build:
