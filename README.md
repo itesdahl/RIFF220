@@ -1,5 +1,5 @@
 # The RIFF220 DIY 3D printer
-![Frame](riff220.jpg)
+![Build](riff220.jpg)
 
 
 
