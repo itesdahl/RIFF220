@@ -4,7 +4,7 @@
 
 
 > [!NOTE]
-> This is work in progress. Details might change.
+> Some details might still change during testing/tuning.
 
 ## Some key information the design and build:
 
