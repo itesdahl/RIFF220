@@ -25,7 +25,7 @@
 - Triple z steppermotors (z-tilt functionality)
 - Sensorless homing on X and Y 
 - Dragonburner with Sherpa micro
-- Low budget CPAP solution with 2 x 5015 fans
+- Low budget CPAP solution with 2 x 5015 fans (remix for ws7040 to get more cooling)
 - 1 x 240W 24V power supply
 
 
