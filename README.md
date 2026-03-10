@@ -34,7 +34,7 @@
 
 
 ### Extrusions for the bed assy in my build with a 220x220 base plate and a 214x214 24V heat bed
-- 1x2020 268mm center 
+- 1x2020 268mm center (measure twice, cut once)
 - 1x2020 220mm front 
 
 >[!TIP]
