@@ -1,8 +1,8 @@
 # The RIFF220 DIY 3D printer
 ![Build](riff220.jpg)
 
-
-
+>[!NOTE]
+>I recommend using second hand/recycled parts from old printers. It makes absolutely no sense to source all the parts new.
 
 >[!TIP]
 >Use the Voron Trident assembly guide to build the bed front arms and the A/B motor mounts. Please note that the orientation of some bolts are different from the original. Check the threads.. https://github.com/VoronDesign/Voron-Trident/blob/main/Manual/Assembly_Manual_Trident.pdf Refer to the BFI idlers to print the original STLs for carrier and front. https://github.com/clee/VoronBFI
@@ -34,7 +34,7 @@
 
 
 ### Extrusions for the bed assy in my build with a 220x220 base plate and a 214x214 24V heat bed
-- 1x2020 268mm center (measure twice, cut once)
+- 1x2020 268mm center (measure)
 - 1x2020 220mm front 
 
 >[!TIP]
