@@ -45,5 +45,10 @@
 https://youtu.be/kZbBAxifQg0
 
 
+# Video part 2
+https://youtu.be/Zv7GhpkNOPk
+
+
+
 ![CAD model](render2.png)
 ![CAD model2](render3.png)
