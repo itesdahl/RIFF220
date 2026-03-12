@@ -30,6 +30,8 @@
 
 - 4x2020 500mm for Z 
 - 8x2020 350mm for X and Y
+- 1x2020 300mm for x-axis (supporting the MGN12 rail) 
+
 
 
 
