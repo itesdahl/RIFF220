@@ -43,6 +43,11 @@
 >Check the frame for squareness and adjust/correct  as needed.
 >Mount the 3 z-motor mounts with M5 10mm bolts. The motor mounts makes the frame more rigid. Check the frame again for squareness.
 
+# Credits/sources for remixes
+https://github.com/VoronDesign/Voron-Trident
+https://github.com/clee/VoronBFI
+https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner
+
 # Video part 1
 https://youtu.be/kZbBAxifQg0
 
