@@ -5,7 +5,7 @@
 >I recommend using second hand/recycled parts from old printers. It makes absolutely no sense to source all the parts new.
 
 >[!TIP]
->Use the Voron Trident assembly guide to build the bed front arms and the A/B motor mounts. Please note that the orientation of some bolts are different from the original. Check the threads.. https://github.com/VoronDesign/Voron-Trident/blob/main/Manual/Assembly_Manual_Trident.pdf Refer to the BFI idlers to print the original STLs for carrier and front. https://github.com/clee/VoronBFI
+>Use the Voron Trident assembly guide to build the bed front arms and the A/B motor mounts. Please note that the orientation of some bolts are different from the original. You also have to replace one of the bolts with a 5mm shaft to allow the motor mout to sit flush to the top extrusion. https://github.com/VoronDesign/Voron-Trident/blob/main/Manual/Assembly_Manual_Trident.pdf Refer to the BFI idlers to print the original STLs for carrier and front. https://github.com/clee/VoronBFI
 >
 
 ## Some key information the design and build:
